@@ -1,3 +1,14 @@
 body{
     background-color: blue;
 }
+
+h1{
+    background-color: red;
+    color: white;
+}
+ul{
+    background-color: gold;
+}
+ol{
+   background-color: gold;
+}
